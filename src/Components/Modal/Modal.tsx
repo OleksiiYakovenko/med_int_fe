@@ -13,7 +13,7 @@ function Modal({ open, children, onClose }:{open:any, children:any, onClose:any}
                 {children}
             </div>
         </>,
-        document.getElementById('portal')!
+        document.getElementById('portal') as HTMLElement
     );
 }
 
