@@ -1,5 +1,5 @@
-import React from 'react'
-import ReactDom from 'react-dom'
+import React from 'react';
+import ReactDom from 'react-dom';
 
 
 function Modal({ open, children, onClose }:{open:any, children:any, onClose:any}) {
