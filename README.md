@@ -1,1 +1,6 @@
-# med_int_fe
+Here i learn and practise folowing technoloies:
+
+-JavaScript
+-TypeScript
+-React
+-Redux
